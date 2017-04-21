@@ -45,3 +45,8 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+target/tomcat/work/Tomcat/localhost/lab-dw-calculo-imc-jsp/org/apache/jsp/index_jsp.java
+target/tomcat/conf/tomcat-users.xml
+target/tomcat/logs/access_log.2017-04-20
+target/tomcat/conf/web.xml
+target/tomcat/conf/logging.properties
